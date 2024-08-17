@@ -7,7 +7,7 @@ url: "https://yourusername.github.io" # 你的 GitHub Pages 网站地址
 
 # Build settings
 markdown: kramdown
-theme: slate
+theme: sjekyll-theme-cayman
 
 # Optional settings
 plugins:
