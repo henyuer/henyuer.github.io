@@ -9,6 +9,9 @@ url: "https://yourusername.github.io" # 你的 GitHub Pages 网站地址
 markdown: kramdown
 theme: minima
 
+# 摘要
+excerpt_separator: ""
+
 # Optional settings
 plugins:
   - jekyll-feed # 自动生成 RSS feed

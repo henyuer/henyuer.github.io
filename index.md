@@ -3,8 +3,6 @@ layout: home
 title: Welcome to My GitHub Pages Site
 ---
 
-# {{ site.title }}
-
 Welcome to my GitHub Pages site! This site is generated using [Jekyll](https://jekyllrb.com/) and hosted on GitHub Pages.
 
 ## Recent Posts
