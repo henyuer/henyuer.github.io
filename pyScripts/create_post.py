@@ -27,7 +27,7 @@ tags: []
     with open(f"_posts/{fileName}",'w',encoding='utf-8') as file:
         file.write(front_matter)
 
-    print(f"Create post: {fileName}")
+    print(f"\033[33mCreate post:\033[0m \033[34m{fileName}\033[0m")
 
 if __name__=="__main__":
     parser=argparse.ArgumentParser()
