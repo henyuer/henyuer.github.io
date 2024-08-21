@@ -7,7 +7,8 @@ url: "https://yourusername.github.io" # 你的 GitHub Pages 网站地址
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 # 摘要
 excerpt_separator: ""
@@ -15,3 +16,4 @@ excerpt_separator: ""
 # Optional settings
 plugins:
   - jekyll-feed # 自动生成 RSS feed
+  - jekyll-include-cache
