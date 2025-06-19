@@ -1,6 +1,10 @@
 # theme: jekyll-theme-minimal
-remote_theme: pages-themes/minimal@v0.2.0
+# remote_theme: pages-themes/minimal@v0.2.0
 title: henyuer's homepage
-description: Bookmark this to keep an eye on my project updates!
+# description: 个人博客主页
+show_downloads: true
+# google_analytics:
+logo: /assets/images/avatar.png
 plugins:
-- jekyll-remote-theme
+  - jekyll-seo-tag
+# - jekyll-remote-theme
