@@ -3,8 +3,12 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+# - type: bangumi
+#   icon: "fa-brands fa-x-twitter"
+
+- type: zhihu
+  icon: "fab fa-zhihu"
+  url: 'https://www.zhihu.com/people/1-1-76-52'
 
 - type: email
   icon: "fas fa-envelope"
