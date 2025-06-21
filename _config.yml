@@ -12,6 +12,8 @@ social:
   name: henyuer
   email: 2940276020@qq.com
 
+baseurl:""
+
 pwa:
   enabled: true # The option for PWA feature (installable)
   cache:
