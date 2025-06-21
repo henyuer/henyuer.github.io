@@ -12,8 +12,8 @@ github:
 social:
   name: henyuer
   email: 2940276020@qq.com
-  # links:
-  #   - https://github.com/henyuer
+  links:
+    - https://github.com/henyuer
 
 baseurl: ""
 
