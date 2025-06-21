@@ -5,4 +5,4 @@ order: 4
 ---
 
 >懒虫一只，待完善
-{: .prompt-tip }
+{: .prompt-info }
