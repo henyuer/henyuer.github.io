@@ -2,6 +2,8 @@
 # remote_theme: pages-themes/minimal@v0.2.0
 title: henyuer
 
+theme: jekyll-theme-chirpy
+
 lang: zh-CN
 
 github:
@@ -28,7 +30,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-archives
   - jekyll-paginate
-  - jekyll-sass-converter
+  # - jekyll-sass-converter
 
 paginate: 10 #每页显示 10 篇文章
 
