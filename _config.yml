@@ -28,6 +28,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-archives
   - jekyll-paginate
+  - jekyll-sass-converter
 
 paginate: 10 #每页显示 10 篇文章
 

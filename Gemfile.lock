@@ -102,6 +102,7 @@ DEPENDENCIES
   jekyll-include-cache
   jekyll-paginate
   jekyll-remote-theme
+  jekyll-sass-converter
   jekyll-seo-tag
 
 BUNDLED WITH
