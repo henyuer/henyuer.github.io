@@ -28,7 +28,7 @@ pwa:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/img/avatar.png"
+avatar: "/assets/img/favicons/avatar.png"
 
 plugins:
   - jekyll-seo-tag
